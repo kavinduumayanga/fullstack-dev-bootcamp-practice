@@ -94,4 +94,4 @@ This is a personal learning repo, but suggestions are welcome!
 
 ## 📬 Connect With Me
 
-(Add your LinkedIn / portfolio here later 🚀)
+- LinkedIn: [Kavindu Umayanga](https://www.linkedin.com/in/kavindu-umayanga/)
