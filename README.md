@@ -21,23 +21,27 @@ This repository contains my daily practice and projects while following:
 - React.js
 - Web3 (Basics)
 
-## 📁 Folder Structure
+## 📁 Project Structure
 
-| Folder | Description |
-|--------|------------|
-| 01-html | HTML basics |
-| 02-css | Styling & layouts |
-| 03-bootstrap | UI frameworks |
-| 04-javascript | JS fundamentals |
-| 05-dom | DOM manipulation |
-| 06-nodejs | Backend basics |
-| 07-express | Server & APIs |
-| 08-apis | External APIs |
-| 09-postgresql | Database (SQL) |
-| 10-authentication | Login systems |
-| 11-react | Frontend apps |
-| 12-web3 | Blockchain basics |
-| 13-projects | Full projects |
+```bash
+fullstack-dev-bootcamp-practice/
+│
+├── README.md
+├── .gitignore
+│
+├── 01-html/                # HTML fundamentals (tags, forms, structure)
+├── 02-css/                 # Styling, layouts, Flexbox, Grid
+├── 03-bootstrap/           # Responsive design using Bootstrap
+├── 04-javascript/          # JS basics (variables, functions, arrays, ES6)
+├── 05-dom/                 # DOM manipulation & events
+├── 06-nodejs/              # Node.js fundamentals (modules, fs, npm)
+├── 07-express/             # Express server, routing, middleware
+├── 08-apis/                # REST APIs, fetch/axios, external APIs
+├── 09-postgresql/          # SQL, database design, CRUD operations
+├── 10-authentication/      # Login systems, sessions, JWT, security
+├── 11-react/               # React basics (components, hooks, state)
+├── 12-web3/                # Web3 basics (blockchain intro)
+├── 13-projects/            # Full-stack mini & major projects
 
 ## ⚙️ How to Run
 
