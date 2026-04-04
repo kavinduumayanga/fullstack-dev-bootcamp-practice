@@ -44,4 +44,4 @@ This repository contains my daily practice and projects while following:
 Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fullstack-dev-bootcamp-practice.git
+git clone https://github.com/kavinduumayanga/fullstack-dev-bootcamp-practice.git
